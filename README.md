@@ -14,7 +14,7 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- OpenWeatherMap API (or insert your API here)
+- OpenWeatherMap API
 
 
 
