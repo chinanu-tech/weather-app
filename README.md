@@ -16,18 +16,16 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - JavaScript (ES6)
 - OpenWeatherMap API (or insert your API here)
 
-## 📷 Screenshots
 
-
-![Weather App Screenshot](./image/project-1.png)
 
 ## 🔗 Live Demo
 
-[Click here to view the live app](#) <!-- Replace # with actual link when deployed -->
+[Click here to view the live app]
+https://chinanu-tech.github.io/weather-app/
 
 ## 📁 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/chinanu-tech/weather-app.git
